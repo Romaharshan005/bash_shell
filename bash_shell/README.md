@@ -1,10 +1,7 @@
-# Shell Assignment 
-
-## Assignment 2 and Assignment 3 combined
-
+# Bash Shell  
 A shell is implemented in C as per the requirements.
 
-### Funcations
+### Functions
 
 - Display requirement:
     - Displayed just like the normal bash terminal.
